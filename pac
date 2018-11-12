@@ -10,7 +10,7 @@ if (shExpMatch(url, "*itunes*")) { return proxy_no; }
 if (shExpMatch(url, "*iosapps*")) { return proxy_no; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 
-if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
+if (shExpMatch(url, "*.qq.com/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
