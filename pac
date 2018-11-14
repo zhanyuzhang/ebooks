@@ -115,6 +115,18 @@ if (shExpMatch(url, "*hub*")) { return proxy_yes; }
 if (shExpMatch(url, "*phncdn*")) { return proxy_yes; }
 if (shExpMatch(url, "*gvt*")) { return proxy_yes; }
 if (shExpMatch(url, "*freevrplayer*")) { return proxy_yes; }
+
+
 if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+if (shExpMatch(url, "*netease.com*")) { return proxy_no; }
+if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+
 return proxy_no;
 }
