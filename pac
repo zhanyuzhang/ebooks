@@ -8,8 +8,11 @@ if (shExpMatch(url, "*xp.apple.com*")) { return proxy_no; }
 if (shExpMatch(url, "*apple*")) { return proxy_no; }
 if (shExpMatch(url, "*itunes*")) { return proxy_no; }
 if (shExpMatch(url, "*iosapps*")) { return proxy_no; }
-if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
+if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
+if (shExpMatch(url, "*netease.com*")) { return proxy_no; }
 
+
+if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.qq.com/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
@@ -117,8 +120,6 @@ if (shExpMatch(url, "*gvt*")) { return proxy_yes; }
 if (shExpMatch(url, "*freevrplayer*")) { return proxy_yes; }
 
 
-if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
-if (shExpMatch(url, "*netease.com*")) { return proxy_no; }
 if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
 if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
 if (shExpMatch(url, "*.cn/*")) { return proxy_no; }
