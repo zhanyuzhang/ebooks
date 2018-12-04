@@ -16,7 +16,7 @@ if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.qq.com/*")) { return proxy_yes; }
 if (shExpMatch(url, "*qmail.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*pan.baidu*")) { return proxy_yes; }
-if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
+if (shExpMatch(url, "*youdao.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
