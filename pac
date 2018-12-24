@@ -21,7 +21,7 @@ if (shExpMatch(url, "*alibaba*")) { return proxy_yes; }
 if (shExpMatch(url, "*alicdn*")) { return proxy_yes; }
 if (shExpMatch(url, "*it-ebooks.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*gtimg.cn*")) { return proxy_yes; }
-if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
+if (shExpMatch(url, "*22xsd.tk*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
