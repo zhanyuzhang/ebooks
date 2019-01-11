@@ -23,7 +23,7 @@ if (shExpMatch(url, "*it-ebooks.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*gtimg.cn*")) { return proxy_yes; }
 if (shExpMatch(url, "*22xsd.tk*")) { return proxy_yes; }
 if (shExpMatch(url, "*sohu.com*")) { return proxy_yes; }
-if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
+if (shExpMatch(url, "*gist*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
