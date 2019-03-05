@@ -26,7 +26,7 @@ if (shExpMatch(url, "*sohu.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*gist*")) { return proxy_yes; }
 if (shExpMatch(url, "*rulesofsurvival.16163.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*.microsoft.com*")) { return proxy_yes; }
-if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
+if (shExpMatch(url, "*jinapdf.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
 
