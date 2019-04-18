@@ -28,7 +28,29 @@ if (shExpMatch(url, "*rulesofsurvival.16163.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*.microsoft.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*jinapdf.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*reddit.com*")) { return proxy_yes; }
-if (shExpMatch(url, "*.tw/*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+
 
 if (shExpMatch(url, "*.jp/*")) { return proxy_yes; }
 if (shExpMatch(url, "*.me/*")) { return proxy_yes; }
