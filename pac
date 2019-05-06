@@ -33,7 +33,7 @@ if (shExpMatch(url, "*streamable.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*uptodown.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*ssr.tools*")) { return proxy_yes; }
 if (shExpMatch(url, "*archive.org*")) { return proxy_yes; }
-if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
+if (shExpMatch(url, "*w3schools.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
 if (shExpMatch(url, "*redditmedia.com*")) { return proxy_yes; }
